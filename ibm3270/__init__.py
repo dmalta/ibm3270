@@ -29,7 +29,7 @@ from ibm3270.types import (
     field,
 )
 
-__version__ = "0.1.0"
+__version__ = "0.1.3"
 
 __all__ = [
     "ConnectionState",

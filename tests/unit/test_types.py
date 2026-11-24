@@ -222,4 +222,4 @@ def test_top_level_exports() -> None:
 
 def test_version() -> None:
     assert isinstance(ibm3270.__version__, str)
-    assert ibm3270.__version__.split(".") == ["0", "1", "0"]
+    assert ibm3270.__version__.split(".") == ["0", "1", "3"]
